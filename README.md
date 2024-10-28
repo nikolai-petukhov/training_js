@@ -1,10 +1,8 @@
-# training_js
+# Basic
 
-Branches:
-
-0. main
-1. Basic
-2. Arrays and objects
-3. HOF and functional programming
-4. Promises and async/await
-5. regExp and strings
+Tasks:
+1. Even or Odd Number
+2. Reverse a String
+3. Sum of All Numbers in an Array
+4. Factorial of a Number
+5. Palindrome Checker
