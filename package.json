@@ -1,0 +1,14 @@
+{
+  "name": "basic",
+  "version": "1.0.0",
+  "description": "Tasks:\r 1. Even or Odd Number\r 2. Reverse a String\r 3. Sum of All Numbers in an Array\r 4. Factorial of a Number\r 5. Palindrome Checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^23.1.0"
+  }
+}
