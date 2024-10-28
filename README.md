@@ -1,6 +1,7 @@
 # training_js
 
 Branches:
+0. main
 1. Basic
 2. Arrays and objects
 3. HOF and functional programming
