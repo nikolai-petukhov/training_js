@@ -4,11 +4,14 @@
   "description": "Tasks:\r 1. Even or Odd Number\r 2. Reverse a String\r 3. Sum of All Numbers in an Array\r 4. Factorial of a Number\r 5. Palindrome Checker",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node": "^23.1.0"
+    "chai": "^5.1.2",
+    "mocha": "^10.8.0",
+    "node": "^23.1.0",
+    "save-dev": "^0.0.1-security"
   }
 }
